@@ -1,1 +1,2 @@
-bash script programs
+bash script program
+hello foks
