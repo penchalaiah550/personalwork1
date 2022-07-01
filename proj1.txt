@@ -1,1 +1,2 @@
-welcome to bash programs
+welcome to bash program
+github hook creation project
